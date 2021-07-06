@@ -18,5 +18,13 @@ class MainActivity : AppCompatActivity() {
             startActivity(Intent(this@MainActivity, BmiKotlinActivity::class.java))
         }
 
+        button3.setOnClickListener {
+            startActivity(Intent(this@MainActivity, VariableJavaActivity::class.java))
+        }
+
+        button4.setOnClickListener {
+            startActivity(Intent(this@MainActivity, VariableKotlinActivity::class.java))
+        }
+
     }
 }
