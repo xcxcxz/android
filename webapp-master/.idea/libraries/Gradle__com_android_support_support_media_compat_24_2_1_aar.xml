@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:support-media-compat:24.2.1@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/0e5396521386070ea94be56e2f764337/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/8d0d0241ea3beae564282380cda84a20/transformed/support-media-compat-24.2.1/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/0e5396521386070ea94be56e2f764337/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/0e5396521386070ea94be56e2f764337/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/0e5396521386070ea94be56e2f764337/jars/libs/internal_impl-24.2.1.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/7c52957552cb230b6a638f3abf30ea99/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/8d0d0241ea3beae564282380cda84a20/transformed/support-media-compat-24.2.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/8d0d0241ea3beae564282380cda84a20/transformed/support-media-compat-24.2.1/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/8d0d0241ea3beae564282380cda84a20/transformed/support-media-compat-24.2.1/jars/libs/internal_impl-24.2.1.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/8d0d0241ea3beae564282380cda84a20/transformed/support-media-compat-24.2.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/support-media-compat/24.2.1/617238215ecc4b27aff5e5be660491db39b8bcc7/support-media-compat-24.2.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/support-media-compat/24.2.1/51bd757c539ff8e6dab5cdb12c6a9551203313d0/support-media-compat-24.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

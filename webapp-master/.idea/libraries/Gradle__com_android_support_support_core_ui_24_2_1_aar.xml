@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:support-core-ui:24.2.1@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/38668e75625dea7e67eccf29714fc681/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/c00119ba80b94e38e941e3a3a85fdf8a/transformed/support-core-ui-24.2.1/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/38668e75625dea7e67eccf29714fc681/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/38668e75625dea7e67eccf29714fc681/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/38668e75625dea7e67eccf29714fc681/jars/libs/internal_impl-24.2.1.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/a2459677b074dcc23051d439cf8a2ffa/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c00119ba80b94e38e941e3a3a85fdf8a/transformed/support-core-ui-24.2.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/c00119ba80b94e38e941e3a3a85fdf8a/transformed/support-core-ui-24.2.1/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/c00119ba80b94e38e941e3a3a85fdf8a/transformed/support-core-ui-24.2.1/jars/libs/internal_impl-24.2.1.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c00119ba80b94e38e941e3a3a85fdf8a/transformed/support-core-ui-24.2.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/support-core-ui/24.2.1/81323179bc485b52c7fdc933ed314ff297a07c46/support-core-ui-24.2.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/support-core-ui/24.2.1/5c7dcf1dd12d21ddc8e89bd02cec6fabc9d6aee5/support-core-ui-24.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
