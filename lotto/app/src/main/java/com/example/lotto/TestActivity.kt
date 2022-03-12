@@ -1,6 +1,7 @@
 package com.example.lotto
 
 import android.content.Intent
+import android.net.Uri
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
@@ -41,6 +42,10 @@ class TestActivity : AppCompatActivity() {
 
     fun goConstellation(view: View) {
         val intent = Intent(this@TestActivity, ConstellationActivity::class.java)
+        startActivity(intent)
+    }
+    fun callWeb(view: View){
+        val intent = Intent(Intent.ACTION_VIEW, Uri.parse("http://www.naver.com"))
         startActivity(intent)
     }
 }
