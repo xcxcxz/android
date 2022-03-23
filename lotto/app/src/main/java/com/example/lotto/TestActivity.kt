@@ -38,6 +38,12 @@ class TestActivity : AppCompatActivity() {
             //intent를 사용하여 Activity를 시작
             startActivity(intent)
         }
+
+        findViewById<View>(R.id.button26).setOnClickListener {
+            val intent = Intent(this@TestActivity, RelativeActivity::class.java)
+            startActivity(intent)
+
+        }
     }
 
     fun goConstellation(view: View) {
@@ -48,4 +54,5 @@ class TestActivity : AppCompatActivity() {
         val intent = Intent(Intent.ACTION_VIEW, Uri.parse("http://www.naver.com"))
         startActivity(intent)
     }
+
 }

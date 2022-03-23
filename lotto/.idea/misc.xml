@@ -3,8 +3,21 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/xcxcx/AndroidStudioProjects/lotto/app/src/main/res/layout/activity_absolute.xml" value="0.25480974775545107" />
         <entry key="..\:/Users/xcxcx/AndroidStudioProjects/lotto/app/src/main/res/layout/activity_constellation.xml" value="0.20478837109876016" />
+        <entry key="..\:/Users/xcxcx/AndroidStudioProjects/lotto/app/src/main/res/layout/activity_main.xml" value="0.25480974775545107" />
+        <entry key="..\:/Users/xcxcx/AndroidStudioProjects/lotto/app/src/main/res/layout/activity_result.xml" value="0.19038984587488667" />
         <entry key="..\:/Users/xcxcx/AndroidStudioProjects/lotto/app/src/main/res/layout/activity_test.xml" value="0.17708333333333334" />
+        <entry key="..\:/Users/xcxcx/AndroidStudioProjects/lotto/app/src/main/res/layout/linear_layout_gravity.xml" value="0.25480974775545107" />
+        <entry key="..\:/Users/xcxcx/AndroidStudioProjects/lotto/app/src/main/res/layout/linear_layout_horizontal.xml" value="0.25480974775545107" />
+        <entry key="..\:/Users/xcxcx/AndroidStudioProjects/lotto/app/src/main/res/layout/linear_layout_layout_gravity.xml" value="0.25480974775545107" />
+        <entry key="..\:/Users/xcxcx/AndroidStudioProjects/lotto/app/src/main/res/layout/linear_layout_margin.xml" value="0.25480974775545107" />
+        <entry key="..\:/Users/xcxcx/AndroidStudioProjects/lotto/app/src/main/res/layout/linear_layout_nested.xml" value="0.25480974775545107" />
+        <entry key="..\:/Users/xcxcx/AndroidStudioProjects/lotto/app/src/main/res/layout/linear_layout_padding.xml" value="0.25480974775545107" />
+        <entry key="..\:/Users/xcxcx/AndroidStudioProjects/lotto/app/src/main/res/layout/linear_layout_vertical.xml" value="0.25480974775545107" />
+        <entry key="..\:/Users/xcxcx/AndroidStudioProjects/lotto/app/src/main/res/layout/linear_layout_weight.xml" value="0.25" />
+        <entry key="..\:/Users/xcxcx/AndroidStudioProjects/lotto/app/src/main/res/layout/relative_layout_other.xml" value="0.19038984587488667" />
+        <entry key="..\:/Users/xcxcx/AndroidStudioProjects/lotto/app/src/main/res/layout/relative_layout_parent.xml" value="0.19038984587488667" />
       </map>
     </option>
   </component>
