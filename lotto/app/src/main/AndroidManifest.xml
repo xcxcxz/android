@@ -10,25 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Lotto">
         <activity
-            android:name=".RelativeActivity"
-            android:exported="false" />
-        <activity
-            android:name=".AbsoluteActivity"
-            android:exported="false" />
-        <activity
             android:name=".MainActivity"
-            android:exported="false" />
-        <activity
-            android:name=".ResultActivity"
-            android:exported="false" />
-        <activity
-            android:name=".NameActivity"
-            android:exported="false" />
-        <activity
-            android:name=".ConstellationActivity"
-            android:exported="false" />
-        <activity
-            android:name=".TestActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -36,6 +18,21 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <activity
+            android:name=".ConstellationActivity"
+            android:theme="@style/AppTheme.Constellation" />
+        <activity
+            android:name=".NameActivity"
+            android:theme="@style/AppTheme.Name" />
+        <activity
+            android:name=".ResultActivity"
+            android:theme="@style/AppTheme.Result"/>
+        <activity android:name=".TestActivity"/>
+        <activity android:name=".AbsoluteActivity"/>
+        <activity android:name=".ConstarintLayoutActivity"/>
+
+
     </application>
 
 </manifest>
