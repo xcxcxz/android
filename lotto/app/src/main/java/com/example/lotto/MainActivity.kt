@@ -13,12 +13,11 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        Toast.makeText(applicationContext, "MainActivity 입니다.", Toast.LENGTH_LONG).show()
 
         findViewById<View>(R.id.randomCard).setOnClickListener {
             val intent = Intent(this, ResultActivity::class.java)
 
-            intent.putIntegerArrayListExtra("result", ArrayList(getShuffleLottoNumber()))
+            intent.putIntegerArrayListExtra("result", ArrayList(LottoNumberMaker.getShuffleLottoNumbers()))
 
             startActivity(intent)
         }
